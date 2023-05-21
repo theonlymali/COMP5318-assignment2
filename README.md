@@ -1,3 +1,2 @@
-The main function of the code is described briefly in the assignment.
-Version of Python used:
-Packages used:
+The function of the code is explained in the rationale.
+All required software and packages are listed there.
